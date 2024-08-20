@@ -1,0 +1,21 @@
+div{
+    margin: auto;
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+    overflow: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: burlywood;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+    border-bottom:2px solid blueviolet;
+    width: 340px;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
